@@ -8,7 +8,7 @@
 dependencies:
   aub_ai: ^1.0.0
 ```
-Eklemelisiniz.
+Eklemelisiniz. ((Eğer doğrudan bu repo'yu kullanıcaksanız buna gerek yok). Repoyu indirin. (Zipli ise çıkartıp), Android studio veya visual studio üzerinden indirdiğiniz dosyaya girin)
 
 2. İlk adım sonrası `flutter pub get` ile ilgili isterler yüklenicektir..
 
